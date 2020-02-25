@@ -101,7 +101,7 @@
     <ClInclude Include="1.4.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2.4.c" />
+    <ClCompile Include="2.7.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

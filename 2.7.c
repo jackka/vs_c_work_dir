@@ -16,11 +16,11 @@ int stepen(void);
 
 void error();
 
-int main2()
+int main()
 {
     int result;
     setjmp(begin);
-    printf("==>");
+    printf("# ");
     getlex();
     result=expr();
     if(curlex!='\n')error();
